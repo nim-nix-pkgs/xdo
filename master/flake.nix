@@ -9,7 +9,7 @@
   
   inputs.src-xdo-master.flake = false;
   inputs.src-xdo-master.owner = "juancarlospaco";
-  inputs.src-xdo-master.ref   = "refs/heads/master";
+  inputs.src-xdo-master.ref   = "master";
   inputs.src-xdo-master.repo  = "nim-xdo";
   inputs.src-xdo-master.type  = "github";
   
